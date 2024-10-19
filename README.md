@@ -44,6 +44,11 @@ https://github.com/MarjusMetushi && https://github.com/Renat01
 # Acknowledgements
 This project is inspired by Lichess.com & Chess.com
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/81e420ce-ee2c-4834-a5b7-146c5459eb36)
 
+![image](https://github.com/user-attachments/assets/dde5a9fc-1116-4c92-82de-4dc181c45c0c)
+
+![image](https://github.com/user-attachments/assets/3fa2791c-2081-43a1-86d5-2d2ccb4a0cbf)
 
 
